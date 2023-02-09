@@ -1,3 +1,8 @@
 export function Details() {
-  return <h1>Hello World!</h1>;
+  return (
+    <div>
+      <h1>Hello World!</h1>
+      <span>Junior Volonte</span>
+    </div>
+  );
 }
